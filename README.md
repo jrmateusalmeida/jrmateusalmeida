@@ -50,4 +50,3 @@ Aplicativo educacional em desenvolvimento, com foco em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmateusalmeida/)
 
 📍 Juiz de Fora, Minas Gerais — Brasil
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9c86a7c-66f3-4df1-88b4-d0eef5010c24" />
